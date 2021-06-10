@@ -21,16 +21,15 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
  #### Qualitative results of different super-resolution methods:
 ![Result](super-resolution.gif)
 
-
-#### Qualitative results of our proposed architecture TE-GAN:
-![Result](enhancement_results.gif)
-
  #### Results of the Proposed Te-Gan Architecture:
 
 |     | HE | CLAHE | TE-GAN
 | --- | --- | --- | --- |
 |PSNR | 7.81 | 11.92 | 13.92 |
 |SSIM | 0.34 | 0.37 | 0.50 |
+
+#### Qualitative results of our proposed architecture TE-GAN:
+![Result](enhancement_results.gif)
 
  #### Results of Pedestrian Detection:
 
