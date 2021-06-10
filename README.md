@@ -13,17 +13,17 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
 
 ### Results on KAIST dataset:
 #### Our reported result on ICPR 2021 paper:
-#### Qualitative results of our proposed architecture TE-GAN:
-![Result](enhancement_results.gif)
+
 
  #### Details of intermediate results from the proposed TE-GAN architecture:
 ![Result](steps.gif)
 
- #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
-![Result](detections.gif)
+ #### Qualitative results of different super-resolution methods:
+![Result](super-resolution.gif)
 
-  #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
-![Result](detections.gif)
+
+#### Qualitative results of our proposed architecture TE-GAN:
+![Result](enhancement_results.gif)
 
  #### Results of the Proposed Te-Gan Architecture:
 
@@ -42,7 +42,8 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
 |    | LAMR| 0.26 | 0.20 |
 |All | mAP| 0.62 | 0.65 |
 |    | LAMR| 0.45 | 0.43 |
-
+  #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
+![Result](detections.gif)
 
 
 ## Citation
