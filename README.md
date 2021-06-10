@@ -13,18 +13,19 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
 
 ### Results on KAIST dataset:
 #### Our reported result on ICPR 2021 paper:
-#### Qualitative results of our proposed architecture TE-GAN::
+#### Qualitative results of our proposed architecture TE-GAN:
+![Result](enhancement_results.gif)
+ #### Details of intermediate results from the proposed TE-GAN architecture:
 ![Result](enhancement_results.gif)
  
- 
- Results of the Proposed Te-Gan Architecture:
+ #### Results of the Proposed Te-Gan Architecture:
 
 |     | HE | CLAHE | TE-GAN
 | --- | --- | --- | --- |
 |PSNR | 7.81 | 11.92 | 13.92 |
 |SSIM | 0.34 | 0.37 | 0.50 |
 
- Results of Pedestrian Detection:
+ #### Results of Pedestrian Detection:
 
 |Testing condions| Metri | Without enhancement | With enhancement
 | --- | --- | --- | --- |
