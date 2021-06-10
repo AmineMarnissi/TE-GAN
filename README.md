@@ -10,3 +10,21 @@
 # TE-GAN
 Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection
 ![architecture](https://user-images.githubusercontent.com/35928931/96371909-7a3aae80-1164-11eb-9356-7b888abae9cb.PNG)
+
+## Citation
+We really hope this repository is useful for you. Please cite our paper as
+```
+@INPROCEEDINGS{9412331,
+  author={Marnissi, Mohamed Amine and Fradi, Hajer and Sahbani, Anis and Ben Amara, Najoua Essoukri},
+  booktitle={2020 25th International Conference on Pattern Recognition (ICPR)}, 
+  title={Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection}, 
+  year={2021}
+  }
+
+```
+
+If you have any comment or question about this repository, please leave it in Issues.
+
+Other contribution, please contact me by email: mohamed.amine.marnissi@gmail.com.
+
+Thank you so much for your interest in our work.
