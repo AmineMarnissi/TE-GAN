@@ -19,8 +19,11 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
  #### Details of intermediate results from the proposed TE-GAN architecture:
 ![Result](steps.gif)
 
+ #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
+![Result](detections.gif)
+
   #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
-![Result](.gif)
+![Result](detections.gif)
 
  #### Results of the Proposed Te-Gan Architecture:
 
