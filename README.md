@@ -41,7 +41,7 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
 
 #### Dataset
 - [Training Set](https://drive.google.com/drive/folders/1mP2_V2ls0cNB5EKuEsXjnOr40b3MpHlc?usp=sharing)
-- [Kaist dataset] (https://drive.google.com/file/d/14A3K2IPPPC8-BwPh-YjeHARaZqjnR655/view?usp=sharing)
+- [Kaist dataset](https://drive.google.com/file/d/14A3K2IPPPC8-BwPh-YjeHARaZqjnR655/view?usp=sharing)
 
 ## Citation
 We really hope this repository is useful for you. Please cite our paper as
