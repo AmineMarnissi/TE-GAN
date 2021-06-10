@@ -1,8 +1,5 @@
 # <a href="https://ieeexplore.ieee.org/document/9412331"> Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection </a>
-## This implementation for our ICPR 2020 paper, training YOLOv3 on KAIST dataset with ....
-
-### This implementation was expanded from our previous work which was the Best Student Paper Honorable Mention Award <a href="https://github.com/mrkieumy/YOLOv3_PyTorch"> "Domain Adaptation for Privacy-Preserving Pedestrian Detection in Thermal Imagery" </a> . 
-
+## This implementation for our ICPR 2020 paper, training YOLOv3 on KAIST dataset
 
 ### The short introduction of paper 
 [![Video detection](examples/firstslide.jpg)](https://www.youtube.com/watch?v=e5yBbxVOcUY&ab_channel=ArtificialIntelligence "Click to play on Youtube.com")
