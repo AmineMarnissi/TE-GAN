@@ -1,5 +1,5 @@
-# <a href="https://www.researchgate.net/publication/343167450_Task-conditioned_Domain_Adaptation_for_Pedestrian_Detection_in_Thermal_Imagery"> Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection </a>
-## This implementation for our ICPR 2020 paper, training YOLOv3 on KAIST dataset with Task-conditioned network for Pedestrian Detection task in Thermal Domain.
+# <a href="https://ieeexplore.ieee.org/document/9412331"> Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection </a>
+## This implementation for our ICPR 2020 paper, training YOLOv3 on KAIST dataset with ....
 
 ### This implementation was expanded from our previous work which was the Best Student Paper Honorable Mention Award <a href="https://github.com/mrkieumy/YOLOv3_PyTorch"> "Domain Adaptation for Privacy-Preserving Pedestrian Detection in Thermal Imagery" </a> . 
 
@@ -10,6 +10,31 @@
 # TE-GAN
 Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection
 ![architecture](https://user-images.githubusercontent.com/35928931/96371909-7a3aae80-1164-11eb-9356-7b888abae9cb.PNG)
+
+### Results on KAIST dataset:
+#### Our reported result on ICPR 2021 paper:
+![Result](examples/compareSOTA.png)
+ 
+ 
+ Results of the Proposed Te-Gan Architecture:
+
+|     | HE | CLAHE | TE-GAN
+| --- | --- | --- | --- |
+|PSNR | 7.81 | 11.92 | 13.92 |
+|SSIM | 0.34 | 0.37 | 0.50 |
+
+ Results of Pedestrian Detection:
+
+|Testing condions| Metri | Without enhancement | With enhancement
+| --- | --- | --- | --- |
+|Day | mAP| 0.61 | 0.63 |
+|    | LAMR| 0.41 | 0.40 |
+|Night | mAP| 0.66 | 0.73 |
+|    | LAMR| 0.26 | 0.20 |
+|All | mAP| 0.62 | 0.65 |
+|    | LAMR| 0.45 | 0.43 |
+
+
 
 ## Citation
 We really hope this repository is useful for you. Please cite our paper as
