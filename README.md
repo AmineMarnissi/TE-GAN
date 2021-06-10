@@ -15,9 +15,13 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
 #### Our reported result on ICPR 2021 paper:
 #### Qualitative results of our proposed architecture TE-GAN:
 ![Result](enhancement_results.gif)
+
  #### Details of intermediate results from the proposed TE-GAN architecture:
-![Result](enhancement_results.gif)
- 
+![Result](steps.gif)
+
+  #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
+![Result](.gif)
+
  #### Results of the Proposed Te-Gan Architecture:
 
 |     | HE | CLAHE | TE-GAN
