@@ -39,7 +39,7 @@ Thermal Image Enhancement using Generative Adversarial Network for Pedestrian De
   #### Some results of pedestrian detection using yolov3 on thermal images from KAIST dataset:
 ![Result](detections.gif)
 
-####Dataset
+#### Dataset
 - [Training Set](https://drive.google.com/drive/folders/1mP2_V2ls0cNB5EKuEsXjnOr40b3MpHlc?usp=sharing)
 
 ## Citation
