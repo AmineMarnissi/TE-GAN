@@ -2,7 +2,7 @@
 ## This implementation for our ICPR 2021 paper, training YOLOv3 on KAIST dataset
 
 ### The short introduction of paper 
-[![Video detection](examples/firstslide.jpg)](https://www.youtube.com/watch?v=e5yBbxVOcUY&ab_channel=ArtificialIntelligence "Click to play on Youtube.com")
+[![Video detection](icpr_img.PNG)](https://www.youtube.com/watch?v=e5yBbxVOcUY&ab_channel=ArtificialIntelligence "Click to play on Youtube.com")
 
 # TE-GAN
 Thermal Image Enhancement using Generative Adversarial Network for Pedestrian Detection
